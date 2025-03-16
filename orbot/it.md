@@ -23,29 +23,29 @@ Orbot è un progetto FOSS del Guardian Project e può essere scaricato direttame
 Dopo aver scaricato e installato F-Droid sul proprio dispositivo, è preferibile usare questo store di sideloading per arrivare a Orbot, continuando così un percorso di privacy personale.
 Lanciare F-Droid e, dalla home, aprire la casella di ricerca
 
-![image](assets/01.webp)
+![image](assets/it/01.webp)
 
 Cercare Orbot e scegliere _Orbot: Proxy with Tor_ con l'icona mostrata in foto sotto:
 
-![image](assets/02.webp)
+![image](assets/it/02.webp)
 
 Una volta trovato il file .apk di riferimento, scegliere _INSTALL_
 
-![image](assets/03.webp)
+![image](assets/it/03.webp)
 
 ## Connettersi alla rete Tor
 
 Orbot si apre ed è pronto a connettersi alla rete Tor, basta selezionare _START VPN_
 
-![image](assets/04.webp)
+![image](assets/it/04.jpg)
 
 La connessione tramite rete Tor è lenta per design, quindi occorre attendere con pazienza
 
-![image](assets/05.webp)
+![image](assets/it/05.jpg)
 
 Una volta connesso, Orbot si presenta così:
 
-![image](assets/06.webp)
+![image](assets/it/06.jpg)
 
 Un'occhiata ai menu della pagina principale è d'obbligo.
 
@@ -55,3 +55,26 @@ Una volta aperto questo menu, viene mostrata la lista completa delle app in ordi
 - _Refresh_ permette di cambiare circuito su cui si è instradati, per aumentare le prestazioni (ad esempio dopo qualche momento di inattività personale).
 - _Turn Tor off_ spegne l'instradamento attraverso la rete Tor e si torna a navigare nel modo tradizionale.
 
+### Choose apps
+
+Come spiegato, scegliendo _Choose apps_ si apre l'elenco **completo** delle app utilizzate sul dispositivo mobile. Trovare in ordine alfabetico le app relative ai wallet e poi salvare
+
+![image](assets/it/07.jpg)
+
+Da questo momento in poi, per utilizzare i wallet sotto Tor, è sufficiente lanciare Orbot prima di aprire un qualunque wallet.
+
+### Settings
+
+Per gli utenti meno esperti, consigliamo di seguire i settings come mostrato nelle foto che seguono.
+
+- ![image](assets/it/08.jpg)
+- ![image](assets/it/09.jpg)
+- ![image](assets/it/10.jpg)
+- ![image](assets/it/11.jpg)
+- ![image](assets/it/12.jpg)
+- ![image](assets/it/13.jpg)
+- ![image](assets/it/14.jpg)
+- ![image](assets/it/15.jpg)
+- ![image](assets/it/16.jpg)
+
+  
