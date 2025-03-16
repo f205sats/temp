@@ -75,3 +75,10 @@ Per gli utenti meno esperti, consigliamo di seguire i settings come mostrato nel
 - ![image](assets/it/13.jpg)
 - ![image](assets/it/14.jpg)
 - ![image](assets/it/15.jpg)
+
+***
+
+Documentazione
+
+Github ufficiale del [Guardian Project](https://github.com/guardianproject/orbot-android)
+[Sito web](https://guardianproject.info/archive/orbot/) del Guardian Project
