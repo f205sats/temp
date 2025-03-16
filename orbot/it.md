@@ -75,6 +75,3 @@ Per gli utenti meno esperti, consigliamo di seguire i settings come mostrato nel
 - ![image](assets/it/13.jpg)
 - ![image](assets/it/14.jpg)
 - ![image](assets/it/15.jpg)
-- ![image](assets/it/16.jpg)
-
-  
