@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "38a18b0324a02ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c36c3374d9ab0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd0436aab47251e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "it"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c6522e74d164666",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c363395676cc20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f1cd5934a53d63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a4ab934e9616d62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1905e49271bfbad0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa31aa19c14c6431",
+    "type": "split",
+    "children": [
+      {
+        "id": "371cc6c6b1612245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16f497115e4929a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "it.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for it"
+            }
+          },
+          {
+            "id": "b9b8ec2da96c499d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "it.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from it"
+            }
+          },
+          {
+            "id": "23d2624002dfe462",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0d51df14b965a70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "it.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of it"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "acd0436aab47251e",
+  "lastOpenFiles": [
+    "assets/it/31.webp",
+    "assets/it/30.webp",
+    "assets/it/29.webp",
+    "it.md",
+    "assets/it/28.webp",
+    "assets/it/27.webp",
+    "assets/it/26.webp",
+    "assets/it/25.webp",
+    "assets/it/24.webp",
+    "assets/it/23.webp",
+    "assets/it/22.webp",
+    "assets/it/34.webp"
+  ]
+}

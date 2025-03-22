@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "c1a5d01df03c7e62",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52d0781edcb871c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "421c2a03b690bebe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65ce23da7a4996a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "72aa6295fae69600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f628ff3f2e828e71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d1bd8d663a0c69b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1cc33716a7e62870",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3994a8cfe7bf14aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee3ba3b64ed669a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd991f02d43894b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "it.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for it"
+            }
+          },
+          {
+            "id": "08419d86c202527a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "it.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from it"
+            }
+          },
+          {
+            "id": "ab9427513d699ee5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fac1be8f09fe1fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "it.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of it"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f628ff3f2e828e71",
+  "lastOpenFiles": [
+    "it.md",
+    "SimpleLogin.md",
+    "name  descriptionSats.mobi Un wallet (custodial) a portata di TelegramUntitled 1.md",
+    "Untitled.md",
+    "assets/it/11.jpg.md",
+    "assets/it/08.jpg.md",
+    "assets/it/20.webp",
+    "assets/it/19.webp",
+    "assets/it/18.webp",
+    "assets/it/17.webp",
+    "assets/it/16.webp",
+    "assets/it/15.webp",
+    "assets/it/14.webp",
+    "assets/it/13.webp",
+    "assets/it/12.webp",
+    "assets/it/11.webp",
+    "assets/it",
+    "assets",
+    "orbot/it",
+    "orbot/Untitled Folder",
+    "orbot/assets",
+    "orbot",
+    "tutorial.yml",
+    "assets/orbot",
+    "tuto-orbot",
+    "Welcome.md"
+  ]
+}
