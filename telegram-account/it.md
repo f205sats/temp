@@ -132,7 +132,7 @@ Qui puoi già vedere le 2 funzioni principali che userai per i messaggi:
 
 ![image](assets/it/37.webp)
 
-Cliccando su quest'ultima, per prima cosa Telegram chiederà il permesso di accedere ai contatti della rubrica, che puoi concedere o meno a seconda della tua esigenza. Approvando, avrai modo da raggiungere i primo amici che già hanno scaricato la app.
+Cliccando su quest'ultima, per prima cosa Telegram chiederà il permesso di accedere ai contatti della rubrica, che puoi concedere o meno a seconda della tua esigenza. Approvando, avrai modo da raggiungere i primi amici che già hanno scaricato la app.
 
 ![image](assets/it/38.webp)
 
@@ -291,7 +291,7 @@ Seleziona _Settings_
 
 ![image](assets/it/19.webp)
 
-e subito dopo _Devices_
+e subito dopo _Devices_.
 
 
 ![image](assets/it/20.webp)
@@ -320,7 +320,7 @@ Soprattutto Telegram è attivo ed utilizzabile anche sul tuo desktop.
 
 ### Call di gruppo
 
-Se sei amministratore o owner di un gruppo Telegram, puoi avviare una call dai menu del gruppo stesso. Potrai così fare delle dirette streaming, registrarle in audio e video, condividerle o utilizzarle per scopi ad esempio didattici.
+Se sei amministratore o owner di un gruppo Telegram, puoi avviare una call dai menu del gruppo stesso. Potrai così fare delle dirette streaming con più partecipanti, registrarle in audio e video, condividerle o utilizzarle per scopi ad esempio didattici.
 
 Nell'immagine seguente puoi vedere come far partire una call di gruppo usando Telegram desktop: vai nella chat dello stesso e nella schermata a destra è presente l'icona di uno schermo. Cliccando su quella potrai decidere se far partire la chiamata immediatamente, oppure schedularla per un orario prestabilito.
 
