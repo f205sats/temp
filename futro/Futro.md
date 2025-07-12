@@ -36,7 +36,7 @@ Le parti su cui andremo ad operare sono:
 
 ### 1. Naturalmente il Futro
 
-### 2. L'hard Disk da 2 TB, che sia di un SSD di ottima qualità. La spesa vale la pena: se tutto va bene, il server ti durerà durare diversi anni
+### 2. L'hard Disk da 2 TB, che sia di un SSD di ottima qualità. La spesa vale la pena: se tutto va bene, il server ti potrebbe durare diversi anni
 ![img](assets/04.png)
 
 Insieme al Crucial, serviranno anche il suo cavo di alimentazione.
