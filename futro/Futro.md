@@ -162,7 +162,7 @@ Qualunque sia il metodo da te scelto, ora hai il disco da 2TB fissato nel tuo Fu
 
 **Complimenti! Hai finito di allestire il Futro S920**.
 
-Rimetti coperchio e frontalino che hai rimosso all'inizio e rimetti le sue viti, perché puoi chiuderlo definitivamente.  Abbi cura di adagiare l'eventuale eccedenza dei cavi in modo dolce, senza creare gomiti stretti. 
+Rimetti coperchio e frontalino che hai rimosso all'inizio e serra tutto con le sue viti, perché puoi chiuderlo definitivamente.  Abbi cura di adagiare l'eventuale eccedenza dei cavi in modo dolce, senza creare gomiti stretti. 
 
 Hai tantissimo spazio per tenere quest'eccedenza lontano dal dissipatore: usalo.
 
