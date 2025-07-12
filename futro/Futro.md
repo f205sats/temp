@@ -55,7 +55,7 @@ Sostituiremo il disco installato sul Futro con questo tipo di disco SSD, che dev
 ![img](assets/10.png)
 
 ### 5. Un adattatore VGA (femmina) - VDI (femmina) 
-![img](assets/vga-dvi.png)
+![img](assets/08.png)
 
 Nel suo pannello posteriore, il Futro presenta due connettori VGA (maschio) che non accettano i classici cavi da monitor VGA, perché la maggior parte ha lo stesso connettore.
 
